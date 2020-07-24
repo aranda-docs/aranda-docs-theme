@@ -1,0 +1,21 @@
+- icon: --health-support
+  product: Health Report
+  link: https://www.arandasoft.com
+  bullets:
+    - image: assets/images/bullets/touch-diagram.png
+      text: Registro del estado de salud y vulnerabilidades de tus empleados
+    - image: assets/images/bullets/checklist.png
+      text: Evaluación de condiciones generales para el retorno
+    - image: assets/images/bullets/biosecurity.png
+      text: Gestión de implementos de bioseguridad
+    - image: assets/images/bullets/doctor-pc.png
+      text: Gestión de horarios de trabajo y disposición segura del espacio       
+
+- icon: --field-services
+  product: Health Field Service
+  link: https://www.arandasoft.com
+  bullets:
+    - image: assets/images/bullets/checklist.png
+      text: Revisión de los casos en sitio
+    - image: assets/images/bullets/biosecurity.png
+      text: Manejo de equipos de bioseguridad

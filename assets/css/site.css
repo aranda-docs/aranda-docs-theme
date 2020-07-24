@@ -1,0 +1,259 @@
+@import url('fonts.css');
+/* GENERAL */
+:root {
+    --aranda-blue: #391C9B;
+    font-size: 15px !important;
+}
+
+body {
+    font-family: 'neusa_next_std_regularregular', sans-serif;
+}
+
+a {
+    color: var(--aranda-blue);
+}
+
+.btn-cta {
+    padding: 0.6rem 8rem;
+    margin-top: 2rem;
+    border-radius: 7px;
+}
+
+textarea {
+    min-height: 100px;
+}
+
+/* BOOTSTRAP OVERRIDE */
+.btn-primary {
+    background-color: var(--aranda-blue);
+    border-color: var(--aranda-blue);
+}
+.btn-outline-primary {
+    color: var(--aranda-blue);
+    border-color: currentColor;
+}
+
+.btn-outline-primary.--white {
+    color: #FFF;
+    border-color: currentColor;
+}
+
+/* HEADER */
+.ar-header {
+    padding: 30px 0;
+    background-color: #FFF;
+    font-size: 1.2rem;
+}
+
+.ar-header .nav-link:hover {
+    color: #999;
+}
+
+/* HEADER HERO */
+.ar-header-hero {
+    background-color: var(--aranda-blue);
+    color: #FFF;
+}
+
+.ar-header-hero .jumbotron {
+    background-color: transparent;
+    margin: 0;
+    padding: 0 1rem 0 0;
+}
+
+.ar-header-hero h1 {
+    line-height: 100%;
+    font-weight: 400;
+    font-size: 4rem;
+}
+
+.ar-header-hero p {
+    font-weight: 300;
+    font-size: 1.14rem;
+}
+
+.ar-header-hero button {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.ar-header-hero .ar-header-hero__char {
+    margin-bottom: -20px;
+    width: 100%;
+}
+
+/* SECTIONS */
+.ar-section {
+    padding: 60px 0;
+}
+
+.ar-section.--gray {
+    background: linear-gradient(#FFF, #EDEDED);
+}
+
+.ar-section .ar-section-heading {
+    font-size: 2.15rem;
+    font-weight: normal;
+    color: var(--aranda-blue);
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #FD842A;
+}
+
+.ar-section__content {
+    padding: 50px 0 0;
+}
+
+/* BULLETS */
+.ar-bullets {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.ar-bullets li {
+    padding: 5px 0;
+    color: var(--aranda-blue);
+    font-size: 1.4rem;
+}
+
+.ar-bullets img {
+    margin-right: 1rem;
+}
+
+/* SERVICES */
+.ar-services-container {
+    position: relative;
+}
+.ar-badge-service {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 10% 10% 10% 15%;
+}
+
+.ar-badge-service.--gray {
+    background-color: #EDEDED;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+    border-radius: 7px;
+}
+.ar-badge-service.--touch {
+    cursor: pointer;
+}
+.ar-badge-service.--white .ar-badge-service__icon {
+    filter: grayscale(1) brightness(100);
+}
+
+.ar-badge-service.--white .ar-badge-service__description h1,
+.ar-badge-service.--white .ar-badge-service__description h2 {
+    color: #FFF;
+}
+
+.ar-badge-service__icon {
+    width: 70px;
+    height: 80px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ar-badge-service__icon.--big {
+    width: 100px;
+    height: 110px;
+}
+
+.ar-badge-service__icon.--health-support {
+    background-image: url("../images/services/health-support.svg");
+}
+
+.ar-badge-service__icon.--device-management {
+    background-image: url("../images/services/device_management.svg");
+}
+
+.ar-badge-service__icon.--service-desk {
+    background-image: url("../images/services/service-desk.svg");
+}
+
+.ar-badge-service__icon.--field-services {
+    background-image: url("../images/services/field-services.svg");
+}
+
+.ar-badge-service__icon.--cmdb {
+    background-image: url("../images/services/cmdb.svg");
+}
+
+.ar-badge-service__icon.--virtual-support {
+    background-image: url("../images/services/virtual-support.svg");
+}
+
+.ar-badge-service__icon.--mobility-management {
+    background-image: url("../images/services/mobility-management.svg");
+}
+
+.ar-badge-service__description {
+    margin-left: 15px;
+    flex-grow: 1;
+}
+
+.ar-badge-service__description h1,
+.ar-badge-service__description h2 {
+    color: #716E7E;
+    font-size: 1.6rem;
+    font-weight: 200;
+}
+
+.ar-badge-service__description h2 {
+    font-weight: 400;
+}
+
+.ar-badge-service__overlay {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 5px;
+    padding: 40px;
+}
+
+.ar-badge-service__overlay .overlay__close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border: 0;
+    border-radius: 100%;
+    width: 26px;
+    height: 26px;
+    color: #FFF;
+    background: url('../images/times.svg') no-repeat center transparent;
+    cursor: pointer;
+}
+
+.overlay-list__item {
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+}
+
+.overlay-list__item::after {
+    content: '';
+    display: inline-block;
+    width: 14px;
+    height: 16px;
+    margin-left: 5px;
+    background: url("../images/chevron-right.svg") center no-repeat;
+    background-size: contain;
+}
+
+
+/* FOOTER */
+footer {
+    background-color: #716E7E;
+    padding: 3rem;
+    justify-content: center;
+    display: flex;
+    color: #FFF;
+}

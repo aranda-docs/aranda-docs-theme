@@ -1,0 +1,12 @@
+<section class="ar-section --gray">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="ar-section-heading">Nuevo Lanzamiento</h1>
+            </div>
+        </div>
+
+        {% assign news = site.data.news.first %}
+        {% include news-item.html news=news %}
+    </div>
+</section>

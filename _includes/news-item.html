@@ -1,0 +1,28 @@
+<div class="ar-section__content">
+    <div class="row">
+        <div class="col-auto">
+            <div class="ar-badge-service p-0 mr-5">
+                <div class="ar-badge-service__icon {{ news.icon }} --big"></div>
+                <div class="ar-badge-service__description ml-3">
+                    <h1>Aranda</h1>
+                    <h2>{{ news.product }}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <ul class="ar-bullets">
+            {% for bullet in news.bullets %}
+                <li><img src="{{ bullet.image }}" alt=""><span>{{ bullet.text }}</span>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col align-items-center justify-content-center d-flex p-3">
+            <a href="{{ news.link }}">
+                <button class="btn btn-primary btn-cta">Más información</button>
+            </a>
+        </div>
+    </div>
+</div>
