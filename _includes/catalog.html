@@ -9,7 +9,7 @@
             <div class="ar-services-container">
                 <div class="row no-gutters">
 
-                    {% for item in site.data.catalog %}
+                    {% for item in site.data.catalog.catalog %}
                     <div class="col-4">
                         <div class="ar-badge-service --gray --touch" data-overlay="{{ item.overlay.name }}" data-bg-color="{{ item.color }}">
                             <div class="ar-badge-service__icon {{ item.icon }}"></div>
@@ -21,7 +21,7 @@
                     {% endfor %}
                 </div>
 
-                {% for item in site.data.catalog %}
+                {% for item in site.data.catalog.catalog %}
                 <div class="ar-badge-service__overlay" id="overlay-{{ item.overlay.name }}">
                     <button class="overlay__close"></button>
                     <div class="overlay-content h-100">

@@ -6,7 +6,7 @@
             </div>
         </div>
 
-        {% for news in site.data.news %}
+        {% for news in site.data.news.news %}
             {% include news-item.html news=news %}
             <hr/>
         {% endfor %}
