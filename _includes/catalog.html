@@ -8,6 +8,7 @@
         <div class="ar-section__content">
             <div class="ar-services-container">
                 <div class="row no-gutters">
+                  <div class="col-12 col-md-6 col-lg-4">
 
                     {% for item in site.data.catalog.catalog %}
                     <div class="col-4">
@@ -15,9 +16,10 @@
                             <div class="ar-badge-service__icon {{ item.icon }}"></div>
                             <div class="ar-badge-service__description">
                                 <h1>{{ item.title }}</h1>
-                            </div>
-                        </div>
-                    </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
                     {% endfor %}
                 </div>
 
@@ -52,4 +54,3 @@
         </div>
     </div>
 </section>
-
