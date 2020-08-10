@@ -10,7 +10,7 @@
                 <div class="row no-gutters">
 
                     {% for item in site.data.catalog.catalog %}
-                    <div class="col-4">
+                    <div class="col-12 col-md-6 col-lg-4">
                         <div class="ar-badge-service --gray --touch" data-overlay="{{ item.overlay.name }}" data-bg-color="{{ item.color }}">
                             <div class="ar-badge-service__icon {{ item.icon }}"></div>
                             <div class="ar-badge-service__description">
@@ -26,7 +26,7 @@
                     <button class="overlay__close"></button>
                     <div class="overlay-content h-100">
                         <div class="row d-flex h-100">
-                            <div class="col-5">
+                            <div class="col-12 col-lg-5">
                                 <div class="ar-badge-service --white">
                                     <div class="ar-badge-service__icon {{ item.icon }}"></div>
                                     <div class="ar-badge-service__description">
