@@ -1,7 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="58.492" height="42.303" viewBox="0 0 58.492 42.303">
-  <g id="Group_1144" data-name="Group 1144" transform="translate(0.911 0.911)">
-    <rect id="Rectangle_141" data-name="Rectangle 141" width="40.472" height="24.283" rx="5.6" transform="translate(16.199 0)" fill="none" stroke="#11bfd8" stroke-miterlimit="10" stroke-width="1.821"/>
-    <rect id="Rectangle_142" data-name="Rectangle 142" width="40.471" height="24.285" rx="5.6" transform="translate(8.099 8.098)" fill="none" stroke="#11bfd8" stroke-miterlimit="10" stroke-width="1.821"/>
-    <rect id="Rectangle_143" data-name="Rectangle 143" width="40.472" height="24.284" rx="5.6" transform="translate(0 16.198)" fill="none" stroke="#11bfd8" stroke-miterlimit="10" stroke-width="1.821"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#11BFD8;stroke-width:1.9689;stroke-miterlimit:10;}
+</style>
+<g id="Group_1144" transform="translate(0.911 0.911)">
+	<path id="Rectangle_141" class="st0" d="M24,9.2h31.6c3.3,0,6.1,2.7,6.1,6.1v14.1c0,3.3-2.7,6.1-6.1,6.1H24c-3.3,0-6.1-2.7-6.1-6.1
+		V15.3C18,11.9,20.7,9.2,24,9.2z"/>
+	<path id="Rectangle_142" class="st0" d="M15.3,18h31.6c3.3,0,6.1,2.7,6.1,6.1v14.1c0,3.3-2.7,6.1-6.1,6.1H15.3
+		c-3.3,0-6.1-2.7-6.1-6.1V24C9.2,20.7,11.9,18,15.3,18z"/>
+	<path id="Rectangle_143" class="st0" d="M6.5,26.7h31.6c3.3,0,6.1,2.7,6.1,6.1v14.1c0,3.3-2.7,6.1-6.1,6.1H6.5
+		c-3.3,0-6.1-2.7-6.1-6.1V32.8C0.5,29.4,3.2,26.7,6.5,26.7z"/>
+</g>
 </svg>
