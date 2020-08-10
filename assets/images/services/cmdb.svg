@@ -1,7 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="61.792" height="59.112" viewBox="0 0 61.792 59.112">
-  <g id="Group_1157" data-name="Group 1157" transform="translate(-8.788 -10.018)">
-    <path id="Path_1267" data-name="Path 1267" d="M24.765,13.453h0a57.272,57.272,0,0,1,29.475-.022l.292.082C74.1,19.018,74.146,32.771,54.6,38.3h0a57.3,57.3,0,0,1-29.475.019l-.293-.081C5.265,32.736,5.223,18.984,24.765,13.453Z" transform="translate(0)" fill="none" stroke="#a6b9c8" stroke-miterlimit="10" stroke-width="2.69"/>
-    <path id="Path_1268" data-name="Path 1268" d="M24.765,26.138h0a57.261,57.261,0,0,1,29.475-.022l.292.082C74.1,31.7,74.146,45.455,54.6,50.985h0a57.261,57.261,0,0,1-29.475.019l-.293-.082C5.265,45.42,5.223,31.668,24.765,26.138Z" transform="translate(0 1.012)" fill="none" stroke="#a6b9c8" stroke-miterlimit="10" stroke-width="2.69"/>
-    <path id="Path_1269" data-name="Path 1269" d="M24.765,38.822h0A57.3,57.3,0,0,1,54.241,38.8l.292.082c19.571,5.5,19.613,19.256.071,24.787h0a57.249,57.249,0,0,1-29.475.021l-.293-.082C5.265,58.1,5.223,44.353,24.765,38.822Z" transform="translate(0 2.025)" fill="none" stroke="#a6b9c8" stroke-miterlimit="10" stroke-width="2.69"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#A6B9C8;stroke-width:2.69;stroke-miterlimit:10;}
+</style>
+<g id="Group_1157" transform="translate(-8.788 -10.018)">
+	<path id="Path_1267" class="st0" d="M25.9,15.9L25.9,15.9c9.7-2.6,19.8-2.6,29.5,0l0.3,0.1c19.6,5.5,19.6,19.3,0.1,24.8l0,0
+		c-9.7,2.6-19.8,2.6-29.5,0l-0.3-0.1C6.4,35.2,6.3,21.4,25.9,15.9z"/>
+	<path id="Path_1268" class="st0" d="M25.9,29.6L25.9,29.6c9.7-2.6,19.8-2.6,29.5,0l0.3,0.1c19.6,5.5,19.6,19.3,0.1,24.8l0,0
+		C46,57,35.9,57,26.2,54.5l-0.3-0.1C6.4,48.9,6.3,35.1,25.9,29.6z"/>
+	<path id="Path_1269" class="st0" d="M25.9,43.3L25.9,43.3c9.7-2.6,19.8-2.6,29.5,0l0.3,0.1c19.6,5.5,19.6,19.3,0.1,24.8l0,0
+		c-9.7,2.6-19.8,2.6-29.5,0l-0.3-0.1C6.4,62.6,6.3,48.8,25.9,43.3z"/>
+</g>
 </svg>
