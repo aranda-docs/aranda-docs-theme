@@ -1,18 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#4E646F;stroke-width:1.7748;stroke-linecap:round;stroke-miterlimit:10;}
-</style>
-<g id="Group_1142" transform="translate(0.98 0.98)">
-	<path id="Rectangle_140" class="st0" d="M15.2,0.5h20.4c2.5,0,4.5,2,4.5,4.5v40c0,2.5-2,4.5-4.5,4.5H15.2c-2.5,0-4.5-2-4.5-4.5V5
-		C10.7,2.5,12.7,0.5,15.2,0.5z"/>
-	<path id="Path_436" class="st0" d="M40.5,6.7L40.5,6.7c2.8,0,5.1,2.3,5.1,5.1v38.9c0,2.8-2.3,5.1-5.1,5.1H21.3
-		c-2.8,0-5.1-2.3-5.1-5.1"/>
-	<path id="Path_437" class="st0" d="M46.2,12.4L46.2,12.4c2.8,0,5.1,2.3,5.1,5.1v38.9c0,2.8-2.3,5.1-5.1,5.1H27
-		c-2.8,0-5.1-2.3-5.1-5.1"/>
-	<line id="Line_22" class="st0" x1="11.5" y1="40.1" x2="40.1" y2="40.1"/>
-	<line id="Line_23" class="st0" x1="11.5" y1="10.1" x2="40.1" y2="10.1"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="46.826" height="69.389" viewBox="0 0 46.826 69.389">
+  <g id="Group_1142" data-name="Group 1142" transform="translate(0.98 0.98)">
+    <rect id="Rectangle_140" data-name="Rectangle 140" width="32.509" height="54.225" rx="4.999" transform="translate(0 0)" fill="none" stroke="#4e646f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.96"/>
+    <path id="Path_436" data-name="Path 436" d="M175.016-2385.248h0a5.632,5.632,0,0,1,5.617,5.617v42.989a5.634,5.634,0,0,1-5.617,5.619H153.743a5.634,5.634,0,0,1-5.617-5.619" transform="translate(-142.079 2392.142)" fill="none" stroke="#4e646f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.96"/>
+    <path id="Path_437" data-name="Path 437" d="M180.631-2379.633h0a5.633,5.633,0,0,1,5.619,5.617v42.989a5.635,5.635,0,0,1-5.619,5.619H159.358a5.633,5.633,0,0,1-5.616-5.619" transform="translate(-141.383 2392.838)" fill="none" stroke="#4e646f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.96"/>
+    <line id="Line_22" data-name="Line 22" x2="31.643" transform="translate(0.866 43.726)" fill="none" stroke="#4e646f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.96"/>
+    <line id="Line_23" data-name="Line 23" x2="31.643" transform="translate(0.866 10.659)" fill="none" stroke="#4e646f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.96"/>
+  </g>
 </svg>
