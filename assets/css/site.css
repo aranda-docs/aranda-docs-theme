@@ -28,10 +28,20 @@ textarea {
     background-color: var(--aranda-blue);
     border-color: var(--aranda-blue);
 }
+
 .btn-primary:hover {
     background-color: #999;
     border-color: #999;
 }
+
+.btn-primary.--orange {
+    background-color: #FD842A;
+}
+
+.btn-primary.--orange:active {
+    background-color: #FD842A !important;
+}
+
 .btn-outline-primary {
     color: var(--aranda-blue);
     border-color: currentColor;
@@ -104,10 +114,11 @@ textarea {
     color: var(--aranda-blue);
     padding-bottom: 1rem;
     border-bottom: 2px solid #FD842A;
+    margin-bottom: 2rem;
 }
 
 .ar-section__content {
-    padding: 50px 0 0;
+    padding: 2rem 0 0;
 }
 
 /* BULLETS */
@@ -131,6 +142,7 @@ textarea {
 .ar-services-container {
     position: relative;
 }
+
 .ar-badge-service {
     display: flex;
     align-items: center;
@@ -139,15 +151,20 @@ textarea {
     padding: 10% 10% 10% 15%;
 }
 
+/******************************************************* --gray variant */
 .ar-badge-service.--gray {
     background-color: #EDEDED;
     border: 2px solid transparent;
     background-clip: padding-box;
     border-radius: 7px;
 }
+
+/******************************************************* --touch variant */
 .ar-badge-service.--touch {
     cursor: pointer;
 }
+
+/******************************************************* --white variant */
 .ar-badge-service.--white .ar-badge-service__icon {
     filter: grayscale(1) brightness(100);
 }
@@ -155,6 +172,29 @@ textarea {
 .ar-badge-service.--white .ar-badge-service__description h1,
 .ar-badge-service.--white .ar-badge-service__description h2 {
     color: #FFF;
+}
+
+/******************************************************* --inline variant */
+.ar-badge-service.--inline {
+    padding: 0;
+}
+
+.ar-badge-service.--inline .ar-badge-service__icon {
+    width: 50px;
+    height: 60px;
+}
+
+.ar-badge-service.--inline .ar-badge-service__description {
+    flex-grow: 0;
+}
+
+.ar-badge-service.--inline .ar-badge-service__description h1,
+.ar-badge-service.--inline .ar-badge-service__description h2 {
+    display: inline;
+    font-size: 1.4rem;
+}
+.ar-badge-service.--inline h2 {
+    font-weight: bold;
 }
 
 .ar-badge-service__icon {
@@ -245,6 +285,7 @@ textarea {
     align-items: center;
     font-size: 1.1rem;
 }
+
 .overlay-list__item a {
     color: #FFF;
 }
@@ -263,6 +304,55 @@ textarea {
     background-size: contain;
 }
 
+/* SOLID BOXES */
+.solid-box {
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+    height: calc(100% - 2rem);
+    color: #FFF;
+}
+
+.solid-box a {
+    color: inherit;
+}
+
+.solid-box.--hero {
+    padding: 2rem 3rem;
+    background-image: url("../images/nuevos/health-report.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+}
+
+.solid-box.--cta {
+    font-size: 1.8rem;
+}
+
+.solid-box.--hero .ar-badge-service {
+    padding: 0;
+    margin-bottom: 3rem;
+}
+
+.solid-box.--hero .lead {
+    color: #FFF;
+}
+
+.solid-box.--blue {
+    background-color: #1E0E72;
+}
+
+.solid-box.--orange {
+    background-color: #F85D48;
+}
+
+.solid-box.--aqua {
+    background-color: #1ECDAE;
+}
+
+.solid-box.--violet {
+    background-color: #443B91;
+}
 
 /* FOOTER */
 footer {
@@ -276,7 +366,7 @@ footer {
 @media screen and (max-width: 767px) {
 
     .overlay-content > * {
-        height: auto!important;
+        height: auto !important;
     }
 }
 
@@ -288,6 +378,7 @@ footer {
         left: 0;
         z-index: 10;
     }
+
     .ar-header-hero {
         margin-top: 102px;
     }
