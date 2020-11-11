@@ -5,13 +5,8 @@ catalog:
     overlay:
       name: device-management
       items:
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.2
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.3
-          link: https://www.google.com
-
+        - text: Manual de uso Versión 9.5
+          link: https://nats85.github.io/doc-adm/
 
   - title: Aranda Service Desk
     icon: --service-desk
@@ -19,32 +14,20 @@ catalog:
     overlay:
       name: service-desk
       items:
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-
-  - title: Aranda Service Desk 2
-    icon: --service-desk
-    color: "#F7846E"
-    overlay:
-      name: service-desk-2
-      items:
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
+        - text: Manual de uso
+          link: https://nats85.github.io/doc-asdk/
+        - text: Aranda Health Report
+          link: https://nats85.github.io/doc-aranda-health-report/
 
   - title: Aranda Field Services
     icon: --field-services
     color: "#35A89E"
     overlay:
       name: field-services
-      items:
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
+      items: :
+        - text: Manual de uso
+          link: https://nats85.github.io/doc-afls/
+
 
   - title: Aranda CMDB
     icon: --cmdb
@@ -52,21 +35,17 @@ catalog:
     overlay:
       name: cmdb
       items:
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
+
 
   - title: Aranda Virtual Support
     icon: --virtual-support
     color: "#3EBFD8"
     overlay:
       name: virtual-support
-      items:
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
+      items: :
+        - text: Manual de uso
+          link: https://aranda-poc-docs.azureedge.net/avs/
+
 
   - title: Aranda Enterprise Mobility Management
     icon: --mobility-management
@@ -74,7 +53,13 @@ catalog:
     overlay:
       name: mobility-management
       items:
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
-        - text: Manual de uso Versión 9.1
-          link: https://www.google.com
+
+
+  - title: Aranda Database Tools
+    icon: --database-tools
+    color: "#33058d"
+    overlay:
+    name: database-tools
+    items:
+      - text: Manual de uso
+        link: https://nats85.github.io/doc-adbt/
