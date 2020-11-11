@@ -21,7 +21,7 @@ catalog:
 
   - title: Aranda Field Services
     icon: --field-services
-    color: "#35A89E"
+    color: "#07A89C"
     overlay:
       name: field-services
       items: :
@@ -63,3 +63,13 @@ catalog:
     items:
       - text: Manual de uso
         link: https://nats85.github.io/doc-adbt/
+
+
+- title: Aranda Virtual Agent
+  icon: --virtual-agent
+  color: "#4f4e95"
+  overlay:
+  name: virtual-agent
+  items:
+    - text: Manual de uso
+      link: link: https://nats85.github.io/doc-ava-2/
