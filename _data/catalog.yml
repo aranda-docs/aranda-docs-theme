@@ -17,7 +17,7 @@ catalog:
         - text: Manual de uso
           link: https://nats85.github.io/doc-asdk/
         - text: Aranda Health Report
-          link: https://nats85.github.io/doc-aranda-health-report/
+          link: https://nats85.github.io/doc-aer/
 
   - title: Aranda Field Services
     icon: --field-services
