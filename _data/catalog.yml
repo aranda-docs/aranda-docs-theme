@@ -6,7 +6,7 @@ catalog:
       name: device-management
       items:
         - text: Manual de uso Versión 9.5
-          link: https://nats85.github.io/doc-adm/
+          link: https://aranda-poc-docs.azureedge.net/adm/
 
   - title: Aranda Service Desk
     icon: --service-desk
@@ -15,18 +15,18 @@ catalog:
       name: service-desk
       items:
         - text: Manual de uso
-          link: https://nats85.github.io/doc-asdk/
+          link: https://aranda-poc-docs.azureedge.net/asdk/
         - text: Aranda Health Report
-          link: https://nats85.github.io/doc-aer/
+          link: https://aranda-poc-docs.azureedge.net/aer/
 
   - title: Aranda Field Services
     icon: --field-services
     color: "#07A89C"
     overlay:
       name: field-services
-      items: :
+      items:
         - text: Manual de uso
-          link: https://nats85.github.io/doc-afls/
+          link: https://aranda-poc-docs.azureedge.net/afls/
 
 
   - title: Aranda CMDB
@@ -42,7 +42,7 @@ catalog:
     color: "#3EBFD8"
     overlay:
       name: virtual-support
-      items: :
+      items:
         - text: Manual de uso
           link: https://aranda-poc-docs.azureedge.net/avs/
 
@@ -59,17 +59,17 @@ catalog:
     icon: --database-tools
     color: "#33058d"
     overlay:
-    name: database-tools
-    items:
-      - text: Manual de uso
-        link: https://nats85.github.io/doc-adbt/
+      name: database-tools
+      items:
+        - text: Manual de uso
+          link: https://aranda-poc-docs.azureedge.net/adbt/
 
 
-- title: Aranda Virtual Agent
-  icon: --virtual-agent
-  color: "#4f4e95"
-  overlay:
-  name: virtual-agent
-  items:
-    - text: Manual de uso
-      link: link: https://nats85.github.io/doc-ava-2/
+  - title: Aranda Virtual Agent
+    icon: --virtual-agent
+    color: "#4f4e95"
+    overlay:
+      name: virtual-agent
+      items:
+        - text: Manual de uso
+          link: https://aranda-poc-docs.azureedge.net/ava
