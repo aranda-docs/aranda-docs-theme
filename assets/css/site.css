@@ -238,6 +238,14 @@ textarea {
     background-image: url("../images/services/mobility-management.svg");
 }
 
+.ar-badge-service__icon.--database-tools {
+    background-image: url("../images/services/database-tools.svg");
+}
+
+.ar-badge-service__icon.--virtual-agent {
+    background-image: url("../images/services/virtual-agent.svg");
+}
+
 .ar-badge-service__description {
     margin-left: 15px;
     flex-grow: 1;
