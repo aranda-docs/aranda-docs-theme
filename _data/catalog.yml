@@ -20,10 +20,10 @@ catalog:
           link: https://aranda-poc-docs.azureedge.net/aer/
 
   - title: Aranda Service Management Suite
-    icon: --service-desk
+    icon: --service-management
     color: "#F7846E"
     overlay:
-      name: service-desk
+      name: service-management
       items:
         - text: Guía de instalación
           link: https://aranda-poc-docs.azureedge.net/asdk/
