@@ -218,6 +218,10 @@ textarea {
     background-image: url("../images/services/device_management.svg");
 }
 
+.ar-badge-service__icon.--service-management {
+    background-image: url("../images/services/service-desk.svg");
+}
+
 .ar-badge-service__icon.--service-desk {
     background-image: url("../images/services/service-desk.svg");
 }
