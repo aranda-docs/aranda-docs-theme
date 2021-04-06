@@ -19,6 +19,21 @@ catalog:
         - text: Aranda Health Report
           link: https://aranda-poc-docs.azureedge.net/aer/
 
+  - title: Aranda Service Management Suite
+    icon: --service-desk
+    color: "#F7846E"
+    overlay:
+      name: service-desk
+      items:
+        - text: Guía de instalación
+          link: https://aranda-poc-docs.azureedge.net/asdk/
+        - text: Manual de uso - Consola de administración
+          link: https://aranda-poc-docs.azureedge.net/aer/
+        - text: Manual de uso - Consola de especialistas
+          link: https://aranda-poc-docs.azureedge.net/asdk/
+        - text: Manual de uso - Consola de clientes
+          link: https://aranda-poc-docs.azureedge.net/aer/
+
   - title: Aranda Field Services
     icon: --field-services
     color: "#07A89C"
