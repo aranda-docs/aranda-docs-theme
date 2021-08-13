@@ -6,7 +6,7 @@ catalog:
       name: device-management
       items:
         - text: Manual de uso Versión 9.5
-          link: https://aranda-poc-docs.azureedge.net/adm/
+          link: https://docs.arandasoft.com/adm/
 
   - title: Aranda Service Desk
     icon: --service-desk
@@ -15,11 +15,11 @@ catalog:
       name: service-desk
       items:
         - text: Manual de uso
-          link: https://aranda-poc-docs.azureedge.net/asdk/
+          link: https://docs.arandasoft.com/asdk/
         - text: Aranda Health Report
-          link: https://aranda-poc-docs.azureedge.net/aer/
+          link: https://docs.arandasoft.com/aer/
 
-  - title: Aranda Service Management Suite
+- title: Aranda Service Management Suite
     icon: --service-management
     color: "#F7846E"
     overlay:
@@ -39,9 +39,9 @@ catalog:
     color: "#07A89C"
     overlay:
       name: field-services
-      items:
+      items: 
         - text: Manual de uso
-          link: https://aranda-poc-docs.azureedge.net/afls/
+          link: https://docs.arandasoft.com/afls/
 
 
   - title: Aranda CMDB
@@ -59,7 +59,7 @@ catalog:
       name: virtual-support
       items:
         - text: Manual de uso
-          link: https://aranda-poc-docs.azureedge.net/avs/
+          link: https://docs.arandasoft.com/avs/
 
 
   - title: Aranda Enterprise Mobility Management
@@ -77,7 +77,7 @@ catalog:
       name: database-tools
       items:
         - text: Manual de uso
-          link: https://aranda-poc-docs.azureedge.net/adbt/
+          link: https://docs.arandasoft.com/adbt/
 
 
   - title: Aranda Virtual Agent
@@ -87,4 +87,12 @@ catalog:
       name: virtual-agent
       items:
         - text: Manual de uso
-          link: https://aranda-poc-docs.azureedge.net/ava
+          link: https://docs.arandasoft.com/ava
+        
+- title: Aranda Query Manager
+    icon: --query-manager
+    color: "#5D9AFC"
+    overlay:
+      name: query-manager
+      items:
+        
