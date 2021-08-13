@@ -26,20 +26,20 @@ catalog:
       name: service-management
       items:
         - text: Guía de instalación
-          link: https://aranda-poc-docs.azureedge.net/asdk/
+          link: https://docs.arandasoft.com/asdk/
         - text: Manual de uso - Consola de administración
-          link: https://aranda-poc-docs.azureedge.net/aer/
+          link: https://docs.arandasoft.com/aer/
         - text: Manual de uso - Consola de especialistas
-          link: https://aranda-poc-docs.azureedge.net/asdk/
+          link: https://docs.arandasoft.com/asdk/
         - text: Manual de uso - Consola de clientes
-          link: https://aranda-poc-docs.azureedge.net/aer/
+          link: https://docs.arandasoft.com/aer/
 
   - title: Aranda Field Services
     icon: --field-services
     color: "#07A89C"
     overlay:
       name: field-services
-      items: 
+      items:
         - text: Manual de uso
           link: https://docs.arandasoft.com/afls/
 
@@ -88,11 +88,10 @@ catalog:
       items:
         - text: Manual de uso
           link: https://docs.arandasoft.com/ava
-        
+
 - title: Aranda Query Manager
     icon: --query-manager
     color: "#5D9AFC"
     overlay:
       name: query-manager
       items:
-        
