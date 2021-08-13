@@ -19,7 +19,7 @@ catalog:
         - text: Aranda Health Report
           link: https://docs.arandasoft.com/aer/
 
-- title: Aranda Service Management Suite
+  - title: Aranda Service Management Suite
     icon: --service-management
     color: "#F7846E"
     overlay:
@@ -73,7 +73,7 @@ catalog:
       name: database-tools
       items:
         - text: Manual de uso
-          link: https://docs.arandasoft.com/adbt
+          link: https://docs.arandasoft.com/adbt/
 
   - title: Aranda Virtual Agent
     icon: --virtual-agent
@@ -82,7 +82,7 @@ catalog:
       name: virtual-agent
       items:
         - text: Manual de uso
-          link: https://docs.arandasoft.com/ava
+          link: https://docs.arandasoft.com/ava/
 
   - title: Aranda Query Manager
     icon: --query-manager
