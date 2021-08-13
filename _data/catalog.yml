@@ -43,14 +43,12 @@ catalog:
         - text: Manual de uso
           link: https://docs.arandasoft.com/afls/
 
-
   - title: Aranda CMDB
     icon: --cmdb
     color: "#A6B9C8"
     overlay:
       name: cmdb
       items:
-
 
   - title: Aranda Virtual Support
     icon: --virtual-support
@@ -61,14 +59,12 @@ catalog:
         - text: Manual de uso
           link: https://docs.arandasoft.com/avs/
 
-
   - title: Aranda Enterprise Mobility Management
     icon: --mobility-management
     color: "#4E636F"
     overlay:
       name: mobility-management
       items:
-
 
   - title: Aranda Database Tools
     icon: --database-tools
@@ -79,7 +75,6 @@ catalog:
         - text: Manual de uso
           link: https://docs.arandasoft.com/adbt/
 
-
   - title: Aranda Virtual Agent
     icon: --virtual-agent
     color: "#4f4e95"
@@ -89,7 +84,7 @@ catalog:
         - text: Manual de uso
           link: https://docs.arandasoft.com/ava
 
-- title: Aranda Query Manager
+  - title: Aranda Query Manager
     icon: --query-manager
     color: "#5D9AFC"
     overlay:
