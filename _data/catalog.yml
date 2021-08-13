@@ -26,13 +26,13 @@ catalog:
       name: service-management
       items:
         - text: Guía de instalación
-          link: https://docs.arandasoft.com/asdk/
+          link:
         - text: Manual de uso - Consola de administración
-          link: https://docs.arandasoft.com/aer/
+          link:
         - text: Manual de uso - Consola de especialistas
-          link: https://docs.arandasoft.com/asdk/
+          link:
         - text: Manual de uso - Consola de clientes
-          link: https://docs.arandasoft.com/aer/
+          link:
 
   - title: Aranda Field Services
     icon: --field-services
