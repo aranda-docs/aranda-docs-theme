@@ -219,7 +219,7 @@ textarea {
 }
 
 .ar-badge-service__icon.--service-management {
-    background-image: url("../images/services/service-desk.svg");
+    background-image: url("../images/services/service-management.svg");
 }
 
 .ar-badge-service__icon.--service-desk {
@@ -248,6 +248,10 @@ textarea {
 
 .ar-badge-service__icon.--virtual-agent {
     background-image: url("../images/services/virtual-agent.svg");
+}
+
+.ar-badge-service__icon.--virtual-agent {
+    background-image: url("../images/services/query-manager.svg");
 }
 
 .ar-badge-service__description {
