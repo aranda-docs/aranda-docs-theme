@@ -250,7 +250,7 @@ textarea {
     background-image: url("../images/services/virtual-agent.svg");
 }
 
-.ar-badge-service__icon.--virtual-agent {
+.ar-badge-service__icon.--query-manager {
     background-image: url("../images/services/query-manager.svg");
 }
 
