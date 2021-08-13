@@ -73,7 +73,7 @@ catalog:
       name: database-tools
       items:
         - text: Manual de uso
-          link: https://docs.arandasoft.com/adbt/
+          link: https://docs.arandasoft.com/adbt
 
   - title: Aranda Virtual Agent
     icon: --virtual-agent
