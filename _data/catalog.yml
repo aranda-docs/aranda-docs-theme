@@ -90,3 +90,5 @@ catalog:
     overlay:
       name: query-manager
       items:
+        - text: Manual de uso
+          link: 
