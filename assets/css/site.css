@@ -5,6 +5,81 @@
     font-size: 15px !important;
 }
 
+
+#demo{
+    border-radius: 18px #000000 solid; 
+    position: relative;
+  
+}
+
+#demo.demo li{
+    position: relative; 
+    right: 40px;
+    border-radius: 18px;
+    bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    background: #Fff;
+    color: #000;   
+    width: 1249,5px;
+    height: 293px;
+    font-size: 10px;
+    font-weight:normal;
+    border-radius: 4px #000000 solid;
+    font-size: 12px;
+    font-family: 'neusa_next_std_regularregular', sans-serif;
+    
+}
+
+#demo.demo li h3{
+    position: relative;
+    font-weight:normal;
+    top: 23px;
+    left: 40px;
+    font-size: 27px;
+    font-family: 'neusa_next_std_regularregular', sans-serif;
+     
+}
+#demo.demo li h5{
+    position: relative;
+    font-weight:normal;
+    top:  42px;
+    left: 40px;
+    font-size: 24px;
+    font-family: 'neusa_next_std_regularregular', sans-serif;
+    color: #999999;
+
+}
+#demo.demo li a{
+    font-size: 19px;
+    position: relative;
+    width: 980px;
+    top: 80px;
+    left: 40px;
+    font-family: 'neusa_next_std_regularregular', sans-serif;
+    color: #392c9b;
+}
+#demo.demo li p{
+    position: relative;
+    font-weight:normal;
+    color: #999999;
+    width: 980px;
+    top: 45px;
+    left: 40px;
+    font-size: 22px;
+    font-family: 'neusa_next_std_regularregular', sans-serif;
+    
+}
+.cerrar{
+    background: url('./../images/cerrar.svg')no-repeat;
+    width: 30px;
+    height:30px;
+    padding: 6px;
+    position: relative;
+    left: 500px;
+    bottom:25px;
+}
+
 body {
     font-family: 'neusa_next_std_regularregular', sans-serif;
 }
