@@ -26,13 +26,13 @@ catalog:
       name: service-management
       items:
         - text: Guía de instalación
-          link:
+          link: https://docs.arandasoft.com/asms_instalacion
         - text: Manual de uso - Consola de administración
-          link:
+          link: https://docs.arandasoft.com/asms_consola_administracion
         - text: Manual de uso - Consola de especialistas
-          link:
+          link: https://docs.arandasoft.com/asms_consola_especialistas
         - text: Manual de uso - Consola de clientes
-          link:
+          link: https://docs.arandasoft.com/asms_consola_clientes
 
   - title: Aranda Field Services
     icon: --field-services
@@ -49,6 +49,8 @@ catalog:
     overlay:
       name: cmdb
       items:
+        - text: Manual de uso
+          link:
 
   - title: Aranda Virtual Support
     icon: --virtual-support
@@ -91,4 +93,4 @@ catalog:
       name: query-manager
       items:
         - text: Manual de uso
-          link:
+          link: https://docs.arandasoft.com/aqm
