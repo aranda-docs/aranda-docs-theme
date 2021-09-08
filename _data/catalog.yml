@@ -66,7 +66,7 @@ catalog:
     color: "#4E636F"
     overlay:
       name: mobility-management
-      items:
+      items: https://docs.arandasoft.com/docs/assets/pdfs/aemm/manual-aranda-aemm-enero-2021-version-aemm-9-18-mq.pdf
 
   - title: Aranda Database Tools
     icon: --database-tools
