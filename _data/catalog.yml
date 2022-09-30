@@ -68,7 +68,7 @@ catalog:
       name: mobility-management
       items:
         - text: Manual de uso
-          link: https://docs.arandasoft.com/dassets/pdfs/aemm/manual-aranda-aemm-enero-2021-version-aemm-9-18-mq.pdf
+          link: https://docs.arandasoft.com/assets/pdfs/aemm/manual-aranda-aemm-enero-2021-version-aemm-9-18-mq.pdf
 
   - title: Aranda Database Tools
     icon: --database-tools
