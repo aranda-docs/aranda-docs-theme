@@ -4,5 +4,5 @@ producttitle:
 home:
 releasenotes: 
 filterby: 
-layout: default
+layout: apis
 ---
